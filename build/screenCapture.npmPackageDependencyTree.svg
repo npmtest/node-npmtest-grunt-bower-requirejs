@@ -22,7 +22,7 @@
 <tspan x="10" y="314">  │ │ │ │ └── wrappy@1.0.2 </tspan>
 <tspan x="10" y="330">  │ │ │ ├── inherits@2.0.3 </tspan>
 <tspan x="10" y="346">  │ │ │ └── once@1.4.0 </tspan>
-<tspan x="10" y="362">  │ │ ├── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="362">  │ │ ├── iconv-lite@0.4.16 </tspan>
 <tspan x="10" y="378">  │ │ ├── isbinaryfile@2.0.4 </tspan>
 <tspan x="10" y="394">  │ │ ├── lodash@2.4.2 </tspan>
 <tspan x="10" y="410">  │ │ ├─┬ minimatch@2.0.10 </tspan>
